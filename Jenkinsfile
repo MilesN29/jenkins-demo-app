@@ -2,7 +2,7 @@ pipeline {
     agent any
     
     environment {
-        IMAGE_NAME = "MilesN29/jenkins-demo-app"
+        IMAGE_NAME = "milesn29/jenkins-demo-app"
     }
     
     stages {
